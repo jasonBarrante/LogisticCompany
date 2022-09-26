@@ -1,0 +1,91 @@
+
+  
+  .App-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-color: #ec5858;
+    min-height: 7vh;
+  }
+  
+  
+  section {
+    color: rgb(0, 0, 0);
+    background-color: #ffffffb0;
+    height: 100vh;
+  }
+  
+  
+  .card-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-top: 50px;
+    
+  }
+
+  .card-titles {
+    text-align: center;
+  }
+
+  .grid {
+    padding: 5px;  
+    /* background-color: rgb(5, 105, 7) */
+  }
+
+
+  .button {
+    background-color: #12f906;
+    width: 40%;
+    margin-left: 15%;
+    border-radius: 10px;
+  }
+  
+
+  .prueba {
+    margin-right: 1000px;
+
+  }
+
+  .formu {
+    background-color: white;
+    margin: 0 auto; /* Centramos el formulario */
+    width: 300px; 
+    padding: 30px;
+    border-radius: 90px;
+  }
+
+  .botonHeader {
+    /* margin-bottom: 20px; */
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 85%;
+  }
+
+  .site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-color: #ec5858;
+    min-height: 8vh;
+  }
+
+  .texto {
+    margin-left: 500px;
+  }
+
+  .buttonAdd {
+    margin-left: 20px;
+    margin-top: 10px
+  }
+
+  .space {
+    margin-left: 10px;
+    margin-top: 40px;
+  }
